@@ -14,3 +14,15 @@ button{
 .bg-pink{
 	background-color:pink;
 }
+.container{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    margin: 8vh 0;
+}
+.display-info{
+    width: 50vw;
+}
+.display-option{
+    width: 20vw;
+}
